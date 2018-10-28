@@ -1,2 +1,5 @@
 # hello-world
-pierwsz proba
+
+pierwsza próba
+
+zobaczymy co to będzie
